@@ -1,0 +1,7 @@
+{
+  "name": "Gemini SciCalc",
+  "description": "A world-class scientific calculator featuring standard advanced math operations, history tracking, and an integrated AI Math Assistant powered by Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
